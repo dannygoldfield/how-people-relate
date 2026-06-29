@@ -2,13 +2,13 @@
 
 How People Relate is built on structured data.
 
-1. Portraits
-2. Videos
-3. Audio
-4. Music
-5. Words
-6. Metadata
-7. Experiments
-8. Observations
-9. Relationships
-10. Version Everything
+1. People
+2. Portraits
+3. Videos
+4. Audio
+5. Music
+6. Language
+7. Metadata
+8. Experiments
+9. Analytics
+10. Versions

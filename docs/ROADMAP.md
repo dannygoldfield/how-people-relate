@@ -1,14 +1,14 @@
 # Roadmap
 
-How People Relate is intended to evolve over decades.
+How People Relate begins with 120 completed videos scheduled before publication.
 
-1. Foundation
-2. Production
-3. Publication
-4. Observation
-5. Refinement
-6. Expansion
-7. Collaboration
-8. Research
-9. Preservation
-10. Stewardship
+1. Define System
+2. Build Library
+3. Produce 120 Videos
+4. Schedule by September 9
+5. Publish Daily
+6. Observe
+7. Measure
+8. Refine
+9. Automate
+10. Steward
