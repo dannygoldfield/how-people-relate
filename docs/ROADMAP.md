@@ -2,4 +2,13 @@
 
 How People Relate is intended to evolve over decades.
 
-This document defines the project's future milestones, priorities, and long-term direction.
+1. Foundation
+2. Production
+3. Publication
+4. Observation
+5. Refinement
+6. Expansion
+7. Collaboration
+8. Research
+9. Preservation
+10. Stewardship

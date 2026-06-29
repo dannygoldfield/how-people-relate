@@ -1,5 +1,11 @@
 # Experiments
 
-Every release is an opportunity to learn.
+Every experiment changes one variable.
 
-This document defines the variables, measurements, and observations used to improve the project.
+1. Question
+2. Variable
+3. Prediction
+4. Measurement
+5. Observation
+6. Conclusion
+7. Repeat
