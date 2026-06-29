@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Adobe Premiere generated folders
+Premiere/Adobe Premiere Pro Auto-Save/
+Premiere/Adobe Premiere Pro Audio Previews/
+
+# Adobe media cache
+*.cfa
+*.pek
+*.ims
+*.prmdc
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
