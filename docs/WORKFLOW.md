@@ -3,12 +3,12 @@
 How People Relate is a repeatable production system.
 
 1. Capture
-2. Select
-3. Organize
-4. Edit
-5. Review
-6. Publish
-7. Measure
-8. Learn
+2. Curate
+3. Generate
+4. Select
+5. Assemble
+6. Review
+7. Publish
+8. Observe
 9. Refine
 10. Repeat

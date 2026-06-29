@@ -10,5 +10,5 @@ Sound should support attention without demanding it.
 6. Avoid Distraction
 7. Support Mentalizing
 8. Build a Reusable Library
-9. Experiment
-10. Iterate
+9. Generate
+10. Calibrate

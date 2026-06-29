@@ -13,4 +13,5 @@ Every creative decision should make it easier to see another person.
 9. Build Systems
 10. Measure Everything
 11. Design for Sustainability
-12. Automate Everything Possible
+12. Automate What Does Not Require Taste
+13. Reserve Taste for Humans
