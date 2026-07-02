@@ -16,3 +16,6 @@ Premiere/Adobe Premiere Pro Audio Previews/
 
 # Temporary files
 *.tmp
+
+# Local media assets
+media/
